@@ -1,1 +1,1 @@
-(Asciinema)[https://www.youtube.com/watch?v=SOqQVoVai6s]
+[Asciinema](https://asciinema.org/a/zctV4gFXK8OFEPz4DZw4J4c9d)
