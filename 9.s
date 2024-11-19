@@ -1,3 +1,9 @@
+// Instituto Tecnologico de Tijuana
+// Depto de Sistemas y Computacion
+// Ing. Sistemas computacionales
+// Autor: Felix Sandoval Josue Guadalupe
+// Repositorio: 
+
 // Programa en ensamblador ARM de 64 bits para verificar si un número fijo es primo
 // Guardar este archivo como primo.s y compilar con:
 // $ as -o primo.o primo.s
