@@ -1,2 +1,1 @@
-[Asciinema](https://asciinema.org/a/zctV4gFXK8OFEPz4DZw4J4c9d)
- [Asciinema2](https://asciinema.org/a/WeUOd42sLcBSPAqYo1Dheti19) 
+[Primeros 10 programas](https://asciinema.org/a/jOYgKUkB7AkNtZo4m9qhDN1Hl)
