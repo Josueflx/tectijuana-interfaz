@@ -1,7 +1,7 @@
 // Instituto Tecnologico de Tijuana
 // Depto de Sistemas y Computacion
 // Ing. Sistemas computacionales
-// Autor: Ibarra Acedo Dominick 
+// Autor: Felix Sandoval Josue Guadalupe
 // Repositorio: 
 
 .global _start
