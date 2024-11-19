@@ -1,3 +1,10 @@
+// Instituto Tecnologico de Tijuana
+// Depto de Sistemas y Computacion
+// Ing. Sistemas computacionales
+// Autor: Felix Sandoval Josue Guadalupe
+// Repositorio: 
+
+
 // Programa en ensamblador ARM de 64 bits para invertir una cadena fija
 // Guardar este archivo como invertir.s y compilar con:
 // $ as -o invertir.o invertir.s
