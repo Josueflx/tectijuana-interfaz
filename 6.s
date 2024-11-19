@@ -1,3 +1,10 @@
+// Instituto Tecnologico de Tijuana
+// Depto de Sistemas y Computacion
+// Ing. Sistemas computacionales
+// Autor: Felix Sandoval Josue Guadalupe
+// Repositorio: 
+
+
 // Suma de los N primeros números naturales
 // Registros utilizados:
 // X0 - Parámetro N y resultado final
