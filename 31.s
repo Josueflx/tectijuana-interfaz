@@ -1,3 +1,9 @@
+// Instituto Tecnologico de Tijuana
+// Depto de Sistemas y Computacion
+// Ing. Sistemas computacionales
+// Autor: Felix Sandoval Josue Guadalupe
+// Repositorio: 
+
 // Programa para calcular el MCM usando la relación MCM = (a × b) / MCD
 // Registros usados:
 // x0: primer número / resultado MCD
