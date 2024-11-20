@@ -1,3 +1,9 @@
+// Instituto Tecnologico de Tijuana
+// Depto de Sistemas y Computacion
+// Ing. Sistemas computacionales
+// Autor: Felix Sandoval Josue Guadalupe
+// Repositorio: 
+
 // Programa para sumar elementos de un arreglo
 // Registros usados:
 // x0: dirección base del arreglo
