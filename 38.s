@@ -1,3 +1,9 @@
+// Instituto Tecnologico de Tijuana
+// Depto de Sistemas y Computacion
+// Ing. Sistemas computacionales
+// Autor: Felix Sandoval Josue Guadalupe
+// Repositorio: 
+
 // Implementación de Cola usando un arreglo en ARM64 Assembly
 .data
     array:      .skip 400        // Espacio para 100 elementos (4 bytes cada uno)
