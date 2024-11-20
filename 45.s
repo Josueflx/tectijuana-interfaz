@@ -1,3 +1,9 @@
+// Instituto Tecnologico de Tijuana
+// Depto de Sistemas y Computacion
+// Ing. Sistemas computacionales
+// Autor: Felix Sandoval Josue Guadalupe
+// Repositorio: 
+
 // Verificador de números Armstrong
 .global _start
 .section .text
