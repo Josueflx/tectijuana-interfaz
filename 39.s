@@ -1,3 +1,9 @@
+// Instituto Tecnologico de Tijuana
+// Depto de Sistemas y Computacion
+// Ing. Sistemas computacionales
+// Autor: Felix Sandoval Josue Guadalupe
+// Repositorio: 
+
 // Programa para convertir decimal a binario
 .data
     buffer:     .skip 64        // Buffer para almacenar resultado binario
